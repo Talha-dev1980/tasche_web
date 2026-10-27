@@ -213,3 +213,12 @@ footer img{width:24px;height:24px}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 @media (max-width:620px){.earow .btn{width:100%;justify-content:center}}
 [id]{scroll-margin-top:84px}
+
+/* 404 */
+.notfound{text-align:center;padding:72px 0 88px}
+.notfound img{width:88px;height:88px;margin-bottom:8px}
+.notfound .code{font-size:clamp(64px,14vw,112px);font-weight:800;line-height:1;margin:0;color:var(--blue-600);letter-spacing:-.04em}
+.notfound h1{font-size:clamp(26px,4.5vw,36px);margin:12px 0 10px;line-height:1.15}
+.notfound .lead{margin:0 auto 28px}
+.notfound .ctas{justify-content:center}
+.notfound .more{margin-top:28px;color:var(--muted);font-size:15px}
